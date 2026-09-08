@@ -1,3 +1,6 @@
 [submodule "Pisyulka"]
 	path = Pisyulka
 	url = https://github.com/KotiasFeet/Pisyulka
+[submodule "Lab1"]
+	path = Lab1
+	url = https://github.com/KotiasFeet/Lab1
